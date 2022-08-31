@@ -14,6 +14,7 @@ public class Main {
 
 
     private static void task1() {
+    System.out.println("Задание 1.1");
         int age = 18;
         if (age >= 18) {
             System.out.println("Поздравляю с совершеннолетием!");
@@ -24,6 +25,7 @@ public class Main {
 
     }
     private static void task2(){
+    System.out.println("Задание 1.2");
         int child = 7;
         if (child >= 7 && child < 18) {
             System.out.println("Ребенок ходит в школу");
@@ -36,6 +38,7 @@ public class Main {
         }
     }
     private static void task3(){
+        System.out.println("Задание 1.3");
         int seatCarriage = 103;
         int fullCar = 102;
         int seating = 60;
@@ -51,7 +54,7 @@ public class Main {
 
     }
     private static void task4() {
-
+    System.out.println("Задание 2.1");
         int age = 17;
         if (age >= 18) {
             System.out.println("Поздравляю с совершеннолетием!");
@@ -61,7 +64,7 @@ public class Main {
     }
 
     private static void task5() {
-
+    System.out.println("Задание 2.2");
         int child = 25;
         if (child >= 7 && child < 18) {
             System.out.println("Ребенок ходит в школу");
@@ -75,6 +78,7 @@ public class Main {
     }
 
     private static void task6() {
+    System.out.println("Задание 2.3");
         int seatCarriage = 23;
         int fullCar = 102;
         int seating = 60;
@@ -87,6 +91,7 @@ public class Main {
         }
     }
     private static void task7(){
+    System.out.println("Задание 3.1");
         int age = 19;
         if(age >= 2 && age <= 6){
             System.out.println("Если возраст человека равен " + age + ", то ему нужно ходить в детский сад");
@@ -99,6 +104,7 @@ public class Main {
         }
     }
     private static void task8(){
+    System.out.println("Задание 3.2");
         int ageChild = 15;
         if(ageChild < 5){
             System.out.println("Ребенок не может кататться на аттракционе");
@@ -112,6 +118,7 @@ public class Main {
 
     }
     private static void task9(){
+    System.out.println("Задание 3.3");
         int one = 1;
         int two = 2;
         int free = 3;
